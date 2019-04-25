@@ -5,8 +5,6 @@ The console print out will tell you the dock location, how many e-bikes are near
 Current cities supported: New York City, San Francisco, Washington DC.
 
 To use:
-Just run the python script.
-
-You will be prompted to select your city.
-
-Then just enter an address you want to query for E-Bikes.
+1. Just run the python script.
+2. You will be prompted to select your city.
+3. Then just enter an address you want to query for E-Bikes.
